@@ -4,32 +4,32 @@ import { useEffect, useRef, useState } from "react";
 
 const fotos = [
   {
-    src: "/fotos/foto1.jpg",
+    src: "/timekeeper/fotos/foto1.jpg",
     texto:
       "Si pudiera volver al principio de nuestra historia, volvería a elegir conocerte, porque sin imaginarlo, terminaste convirtiéndote en alguien demasiado especial para mí.",
   },
   {
-    src: "/fotos/foto2.jpg",
+    src: "/timekeeper/fotos/foto2.jpg",
     texto:
       "Me encanta que contigo pueda reírme por cualquier tontería, hacer locuras y disfrutar de esos momentos sencillos que, cuando estoy a tu lado, se vuelven inolvidables.",
   },
   {
-    src: "/fotos/foto3.jpg",
+    src: "/timekeeper/fotos/foto3.jpg",
     texto:
       "Entre tantas personas y tantos caminos, qué bonito que nuestros mundos se encontraran y que hoy podamos construir una historia que solo tú y yo sabemos cómo se siente.",
   },
   {
-    src: "/fotos/foto4.jpg",
+    src: "/timekeeper/fotos/foto4.jpg",
     texto:
       "No necesito que todos mis días sean perfectos; muchas veces me basta con tenerte cerca, sentir tu cariño y compartir contigo hasta aquello que no sé explicar.",
   },
   {
-    src: "/fotos/foto5.jpg",
+    src: "/timekeeper/fotos/foto5.jpg",
     texto:
       "Han pasado siete meses desde que comenzamos este camino, y todavía me emociona pensar en todo lo que hemos vivido, aprendido y descubierto mientras nos elegimos cada día.",
   },
   {
-    src: "/fotos/foto6.jpg",
+    src: "/timekeeper/fotos/foto6.jpg",
     texto:
       "Estas fotos guardan pedacitos de lo que somos hoy, pero mi parte favorita es saber que nuestra historia sigue escribiéndose y que todavía nos quedan muchos recuerdos por crear.",
   },
